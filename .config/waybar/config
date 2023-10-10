@@ -18,6 +18,8 @@
 
     // MODULE CONFIG
 
+    "tray": {"spacing": 12},
+
     "backlight": {
         "format": " {percent}%",
         "min-length": 7
